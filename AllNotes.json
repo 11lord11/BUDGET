@@ -1,0 +1,19 @@
+{
+  "21.03.2023": [
+    {
+      "NoteName": "Фильм",
+      "NoteTypeName": "Кино",
+      "NoteMoney": 200,
+      "NoteIsIncome": false
+    }
+  ],
+  "23.03.2023": [
+    {
+      "NoteName": "92",
+      "NoteTypeName": "Бензин",
+      "NoteMoney": 599,
+      "NoteIsIncome": true
+    }
+  ],
+  "02.03.2023": []
+}
